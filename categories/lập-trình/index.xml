@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Lập Trình on Lê Minh Quang</title>
+    <link>http://example.org/categories/l%E1%BA%ADp-tr%C3%ACnh/</link>
+    <description>Recent content in Lập Trình on Lê Minh Quang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <managingEditor>leminhquang213@gmail.com (Lê Minh Quang)</managingEditor>
+    <webMaster>leminhquang213@gmail.com (Lê Minh Quang)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://example.org/categories/l%E1%BA%ADp-tr%C3%ACnh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>Java Collections Framework</title>
+        <link>http://example.org/posts/java-collection-course/</link>
+        <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+        <author>leminhquang213@gmail.com (Lê Minh Quang)</author>
+        <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/posts/java-collection-course/</guid>
+        <description>Học cách sử dụng các cấu trúc dữ liệu trong Java: List, Set, Map, Queue.</description>
+        
+        <dc:creator>Lê Minh Quang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Java</category>
+            
+          
+            
+              <category>Collection</category>
+            
+          
+            
+              <category>Data Structure</category>
+            
+          
+        
+        
+          
+            
+              <category>Lập trình</category>
+            
+          
+            
+              <category>Java</category>
+            
+          
+        
+        
+      </item>
+    
+      <item>
+        <title>JavaScript hiện đại với ES6&#43;</title>
+        <link>http://example.org/posts/javascript-es6-course/</link>
+        <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+        <author>leminhquang213@gmail.com (Lê Minh Quang)</author>
+        <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/posts/javascript-es6-course/</guid>
+        <description>Học cú pháp ES6+, destructuring, module, async/await và arrow function.</description>
+        
+        <dc:creator>Lê Minh Quang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>JavaScript</category>
+            
+          
+            
+              <category>ES6</category>
+            
+          
+            
+              <category>Frontend</category>
+            
+          
+        
+        
+          
+            
+              <category>Lập trình</category>
+            
+          
+            
+              <category>JavaScript</category>
+            
+          
+        
+        
+      </item>
+    
+      <item>
+        <title>Khóa học Java Căn bản</title>
+        <link>http://example.org/posts/java-basic-course/</link>
+        <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+        <author>leminhquang213@gmail.com (Lê Minh Quang)</author>
+        <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/posts/java-basic-course/</guid>
+        <description>Khóa học nền tảng giúp làm quen với cú pháp Java, kiểu dữ liệu, vòng lặp và cấu trúc điều khiển.</description>
+        
+        <dc:creator>Lê Minh Quang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Java</category>
+            
+          
+            
+              <category>Programming</category>
+            
+          
+            
+              <category>OOP</category>
+            
+          
+        
+        
+          
+            
+              <category>Lập trình</category>
+            
+          
+            
+              <category>Java</category>
+            
+          
+        
+        
+      </item>
+    
+      <item>
+        <title>Khóa học JavaScript Cơ bản</title>
+        <link>http://example.org/posts/javascript-basic-course/</link>
+        <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+        <author>leminhquang213@gmail.com (Lê Minh Quang)</author>
+        <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/posts/javascript-basic-course/</guid>
+        <description>Khóa học nền tảng để hiểu cú pháp, kiểu dữ liệu và cách JavaScript hoạt động trong trình duyệt.</description>
+        
+        <dc:creator>Lê Minh Quang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>JavaScript</category>
+            
+          
+            
+              <category>Frontend</category>
+            
+          
+            
+              <category>Web</category>
+            
+          
+        
+        
+          
+            
+              <category>Lập trình</category>
+            
+          
+            
+              <category>JavaScript</category>
+            
+          
+        
+        
+      </item>
+    
+      <item>
+        <title>Làm việc với DOM và sự kiện trong JavaScript</title>
+        <link>http://example.org/posts/javascript-dom-course/</link>
+        <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+        <author>leminhquang213@gmail.com (Lê Minh Quang)</author>
+        <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/posts/javascript-dom-course/</guid>
+        <description>Khóa học hướng dẫn cách thao tác DOM, xử lý sự kiện và cập nhật nội dung web động.</description>
+        
+        <dc:creator>Lê Minh Quang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>JavaScript</category>
+            
+          
+            
+              <category>DOM</category>
+            
+          
+            
+              <category>Web</category>
+            
+          
+        
+        
+          
+            
+              <category>Lập trình</category>
+            
+          
+            
+              <category>JavaScript</category>
+            
+          
+        
+        
+      </item>
+    
+      <item>
+        <title>Lập trình Backend với Node.js</title>
+        <link>http://example.org/posts/javascript-node-course/</link>
+        <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+        <author>leminhquang213@gmail.com (Lê Minh Quang)</author>
+        <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/posts/javascript-node-course/</guid>
+        <description>Khóa học giúp hiểu cách xây dựng ứng dụng backend và API bằng Node.js và Express.</description>
+        
+        <dc:creator>Lê Minh Quang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>JavaScript</category>
+            
+          
+            
+              <category>Node.js</category>
+            
+          
+            
+              <category>Backend</category>
+            
+          
+        
+        
+          
+            
+              <category>Lập trình</category>
+            
+          
+            
+              <category>JavaScript</category>
+            
+          
+        
+        
+      </item>
+    
+      <item>
+        <title>Lập trình Hướng đối tượng trong Java</title>
+        <link>http://example.org/posts/java-oop-course/</link>
+        <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+        <author>leminhquang213@gmail.com (Lê Minh Quang)</author>
+        <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/posts/java-oop-course/</guid>
+        <description>Khóa học giúp bạn nắm vững khái niệm OOP: lớp, đối tượng, kế thừa, đa hình và đóng gói.</description>
+        
+        <dc:creator>Lê Minh Quang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Java</category>
+            
+          
+            
+              <category>OOP</category>
+            
+          
+            
+              <category>Class</category>
+            
+          
+        
+        
+          
+            
+              <category>Lập trình</category>
+            
+          
+            
+              <category>Java</category>
+            
+          
+        
+        
+      </item>
+    
+      <item>
+        <title>Phát triển Web với Spring Boot</title>
+        <link>http://example.org/posts/java-springboot-course/</link>
+        <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+        <author>leminhquang213@gmail.com (Lê Minh Quang)</author>
+        <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/posts/java-springboot-course/</guid>
+        <description>Khóa học phát triển ứng dụng web backend hiện đại với Spring Boot.</description>
+        
+        <dc:creator>Lê Minh Quang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Java</category>
+            
+          
+            
+              <category>Spring Boot</category>
+            
+          
+            
+              <category>Web</category>
+            
+          
+        
+        
+          
+            
+              <category>Lập trình</category>
+            
+          
+            
+              <category>Java</category>
+            
+          
+        
+        
+      </item>
+    
+      <item>
+        <title>Xây dựng giao diện GUI với Java Swing</title>
+        <link>http://example.org/posts/java-gui-course/</link>
+        <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+        <author>leminhquang213@gmail.com (Lê Minh Quang)</author>
+        <atom:modified>Fri, 24 Oct 2025 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/posts/java-gui-course/</guid>
+        <description>Học cách tạo ứng dụng có giao diện đồ họa (GUI) với Java Swing.</description>
+        
+        <dc:creator>Lê Minh Quang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Java</category>
+            
+          
+            
+              <category>GUI</category>
+            
+          
+            
+              <category>Swing</category>
+            
+          
+        
+        
+          
+            
+              <category>Lập trình</category>
+            
+          
+            
+              <category>Java</category>
+            
+          
+        
+        
+      </item>
+    
+  </channel>
+</rss>
