@@ -3,21 +3,17 @@ title = "Lê Minh Quang"
 theme = "zzo"
 
 defaultContentLanguage = "vi"
-# defaultContentLanguageInSubdir = true
-# hasCJKLanguage = true
-
 summaryLength = 70
 buildFuture = true
-
 copyright = "&copy;{year}, All Rights Reserved"
 timeout = 10000
 enableEmoji = true
+
 [pagination]
   pagerSize = 10
 
-rssLimit = 100
-
-enableGitInfo = false
+[params]
+  rssLimit = 100   # số không âm (0,10,20,... đều được)
 
 [markup]
   [markup.goldmark]
