@@ -47,3 +47,5 @@ enableEmoji = true
   category = "categories"
   tag = "tags"
   series = "series"
+
+disableKinds = ["RSS"]
