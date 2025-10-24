@@ -212,3 +212,8 @@ commento = false
 [[footerLinks]]
   name = ""
   link = ""
+  [params]
+  enableBreadcrumb = false
+  # một số bản zzo dùng tên khác:
+  breadCrumb = false
+  breadcrumb = false
