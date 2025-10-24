@@ -1,7 +1,12 @@
 name: Deploy Hugo site to GitHub Pages
 on:
   push:
+<<<<<<< Updated upstream
     branches: [ master ]   # nếu nhánh chính là master; đổi thành main nếu bạn dùng main
+=======
+    branches: [ master ]
+   # đổi sang nhánh chính bạn đang dùng
+>>>>>>> Stashed changes
   workflow_dispatch:
 
 permissions:
